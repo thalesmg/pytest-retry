@@ -20,7 +20,7 @@ classifiers = [
 ]
 keywords = ["rerun", "pytest", "flaky"]
 dependencies = [
-    "pytest >= 7.0.0",
+    "pytest >= 6.2.5",
 ]
 requires-python = ">=3.9"
 
